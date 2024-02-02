@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning PowerBI, Python, SQL.
 - 💞️ I’m looking to collaborate on projejcts related to data analysis and visualisation. 
 - 📫 How to reach me vsaraf32@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+
 
 <!---
 VaibhavSaraf2023/VaibhavSaraf2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
