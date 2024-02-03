@@ -7,7 +7,7 @@
 
 
 <!---
-VaibhavSaraf2023/VaibhavSaraf2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vaibhav Saraf/Vaibhav Saraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ![image](https://github.com/VaibhavSaraf2023/VaibhavSaraf2023/assets/143919401/080c0192-f2db-4487-a06b-30b15f91ba05)
